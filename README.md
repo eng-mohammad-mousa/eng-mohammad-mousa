@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me:
 
-<strong>I'm a Software engineer with two years of experience in web development technologies, I consider myself as fast learner, problem solver and and I enjoy challenging myself on a regular basis.<br>
+<strong>I am a Software engineer with several years of experience in web development technologies, I consider myself as fast learner, problem solver and and I enjoy challenging myself on a regular basis.<br>
 Setting goals, both personally and professionally, and working towards achieving them is something I find fulfilling.<br>
 
 My experience has helped me to take accessibility and responsiveness seriously.<br>
