@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Mousa</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Sheikh Mousa</h1>
 
 ## 👨‍💻 About Me:
 
